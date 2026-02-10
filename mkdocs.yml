@@ -34,3 +34,4 @@ nav:
     - 風險管理 (Risk Management): basics/risk.md
   - 2. 程式交易 (Bot Trading):
     - 基礎觀念 (Basics): bot/intro.md
+    - 熱門框架 (Top Repos): bot/repos.md
