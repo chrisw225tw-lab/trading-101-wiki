@@ -25,9 +25,12 @@ markdown_extensions:
   - pymdownx.highlight
   - tables
 
+plugins:
+  - search
+
 nav:
   - 首頁 (Home): index.md
   - 1. 核心觀念 (Core Concepts):
     - 風險管理 (Risk Management): basics/risk.md
-    - 市場結構 (Market Structure): basics/structure.md
-  - 2. 交易心理 (Psychology): basics/psychology.md
+  - 2. 程式交易 (Bot Trading):
+    - 基礎觀念 (Basics): bot/intro.md
