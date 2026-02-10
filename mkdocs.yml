@@ -36,6 +36,7 @@ nav:
     - 基礎觀念 (Basics): bot/intro.md
     - 熱門框架 (Top Repos): bot/repos.md
     - AI/NN 策略 (Neural Networks): bot/nn_strategies.md
+    - 實盤真相 (Live vs Paper): bot/reality.md
   - 3. 交易策略 (Strategies):
     - 策略總覽 (List): strategy/list.md
   - 4. 術語大全 (Glossary):
