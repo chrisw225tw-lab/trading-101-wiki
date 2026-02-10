@@ -37,3 +37,5 @@ nav:
     - 熱門框架 (Top Repos): bot/repos.md
   - 3. 交易策略 (Strategies):
     - 策略總覽 (List): strategy/list.md
+  - 4. 術語大全 (Glossary):
+    - 常用術語 (Common Terms): terms/glossary.md
