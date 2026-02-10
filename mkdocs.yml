@@ -35,3 +35,5 @@ nav:
   - 2. 程式交易 (Bot Trading):
     - 基礎觀念 (Basics): bot/intro.md
     - 熱門框架 (Top Repos): bot/repos.md
+  - 3. 交易策略 (Strategies):
+    - 策略總覽 (List): strategy/list.md
